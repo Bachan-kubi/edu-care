@@ -38,7 +38,7 @@
 /* Media queaty started */
 @media only screen and (min-width: 768px) and (max-width: 992px) {
 	.carousel-caption {
-		bottom: 100px;
+		bottom: 150px;
 	}
 	.carousel-caption p {
 		width: 100%;
@@ -47,7 +47,7 @@
 }
 @media only screen and (max-width: 568px) {
 	.carousel-caption {
-		bottom: 200px;
+		bottom: 100px;
 	}
 	.carousel-caption h5 {
 		font-size: 17px;
